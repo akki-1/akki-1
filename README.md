@@ -31,6 +31,7 @@ Technology stack
 🔭 3) Angular
 💁 Built responsive and reactive front-ends with Angular. Ensure that applications & REST API's are secured using industry standard techniques like JWTs, HttpOnly cookies.
 
-⚡ Fun fact: Makes no sense if u working without fun in It World.
+⚡ Fun fact: Makes no sense if u working without fun in IT World.
+
 🙏 Thanks for visiting my profile
 SEE YOU ON THE OTHER SIDE😃
