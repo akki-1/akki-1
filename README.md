@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋 I am Akki the updated ver of MySelf 🙋
-I am a Full Stack java Developer 💻 with skills and knowledge which I wanna work and money
+I am a Full Stack java Developer 💻 with skills and knowledge which I wanna conert to work and money.
 My specialty in building a beautiful, impactful, and purposeful user experience without sacrificing quality and performance
 Mainly focus on Back End Development but also available for Front End Development with Angular .
 I am proficient in Git.
@@ -31,5 +31,6 @@ Technology stack
 🔭 3) Angular
 💁 Built responsive and reactive front-ends with Angular. Ensure that applications & REST API's are secured using industry standard techniques like JWTs, HttpOnly cookies.
 
+⚡ Fun fact: Makes no sense if u working without fun in It World.
 🙏 Thanks for visiting my profile
 SEE YOU ON THE OTHER SIDE😃
