@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
    I am Akki the updated ver of MySelf 🙋  
-I am a Full Stack java Developer 💻 with skills and knowledge which I wanna convert to work and money.
+I am a Full Stack java Developer 💻 with skills and knowledge which I wanna upgrade by doing work on similar tech.
 My speciality is building a beautiful, impactful, and purposeful user experience without sacrificing quality and performance.
 Mainly focus on Back End Development but also available for Front End Development with Angular and JSP.
 I am proficient in Git.
